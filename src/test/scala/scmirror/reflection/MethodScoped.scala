@@ -12,6 +12,7 @@ class TestScope {
 	}
 }
 
+/*
 class MethodScoped extends Specification {
 	"MethodScoped" should {
 		"have accessable properties" in {
@@ -19,3 +20,4 @@ class MethodScoped extends Specification {
 		}
 	}
 }
+*/

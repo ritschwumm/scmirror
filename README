@@ -1,4 +1,4 @@
-A cheap replacement for a real reflection api
+Cheap replacement for a real reflection api
 
 To build this code, get and install SBT from 
 	https://github.com/harrah/xsbt
