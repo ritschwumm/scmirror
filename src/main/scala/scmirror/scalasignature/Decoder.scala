@@ -10,7 +10,7 @@ import scala.reflect.generic.PickleFormat
 import scala.reflect.generic.PickleBuffer
 
 import scutil.Implicits._
-import scutil.data.Tuples
+import scutil.Tuples
 
 object Decoder {
 	def decode(clazz:Class[_]):Option[Signature]	= 
